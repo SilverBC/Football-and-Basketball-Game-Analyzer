@@ -1,0 +1,9 @@
+ultralytics
+numpy
+pandas
+supervision
+matplotlib
+opencv-python
+roboflow
+customtkinter
+Pillow

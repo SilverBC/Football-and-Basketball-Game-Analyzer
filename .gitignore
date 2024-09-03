@@ -1,0 +1,11 @@
+test.py
+test.ipynb
+**/__pycache__/
+output_videos/output_video.avi
+yolov8x.pt
+.config
+input_video/B1606b0e6_1 (18).mp4
+train/Basketball-1/
+train/football-players-detection-1/
+train/runs/detect/train2/*
+train/runs/detect/train/*
