@@ -2,12 +2,7 @@ from ultralytics import YOLO
 from utils import TeamAssigner, CameraMovementEstimator, ViewTransformer, PlayerBallAssigner, SpeedAndDistance_Estimator
 from utils import read_video,  check_sports_type, save_video, select_video_file
 from trackers import Tracker
-import cv2
 import numpy as np
-import customtkinter as ctk
-from tkinter import filedialog
-from PIL import Image, ImageTk
-from customtkinter import CTkImage
 
 
 def main(video_file='input_video\\basketball.mp4'):

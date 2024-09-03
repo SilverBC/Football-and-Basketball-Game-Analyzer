@@ -5,6 +5,10 @@
 
 I have included some sample videos of football/basketball games in the 'input_video' folder, for those interested in trying out the program. 
 
+The model weights are too large to be stored directly in this repository. You can download the pre-trained model weights from the following link:
+[Download Model Weights from Google Drive](https://drive.google.com/drive/folders/1eQ7OoauQApXWwbYZLuRcx40CwBVGrWOo?usp=sharing)
+
+
 1) install pip 
 2) In the terminal, run: pip install -r requirements.txt
 3) run: python main.py
