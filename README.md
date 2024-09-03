@@ -1,4 +1,4 @@
-# Game Analyzer: Unleashing the Power of AI in Sports Video Analysis
+# Sports Analyzer: The Machine Shall Judge You
 
 ## 🚀 Getting Started
 ### Instruction for those simply intested in downloading and running it
